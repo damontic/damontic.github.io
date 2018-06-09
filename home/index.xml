@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on David Alberto Montaño Fetecua</title>
+    <link>http://davidmonta%C3%B1o.com/home/</link>
+    <description>Recent content in Homes on David Alberto Montaño Fetecua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 09 Jun 2018 10:05:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://davidmonta%C3%B1o.com/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://davidmonta%C3%B1o.com/home/about/</link>
+      <pubDate>Sat, 09 Jun 2018 10:05:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/home/about/</guid>
+      <description>Biography David Alberto Montaño Fetecua is a DevOps/SRE at S4N. Having experience as an Operating Systems teacher, he is pationate about GNU/Linux and Programming. He is currently automating multiple software pipelines for different software projects so that they can be deployed in different environments such as on-premise and on the cloud.
+Motivated and pationate, David Montaño does his best to learn something new everyday and to share knowledge and experience with others to solve problems as a team.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>http://davidmonta%C3%B1o.com/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>http://davidmonta%C3%B1o.com/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>http://davidmonta%C3%B1o.com/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>http://davidmonta%C3%B1o.com/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://davidmonta%C3%B1o.com/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Section</title>
+      <link>http://davidmonta%C3%B1o.com/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/home/teaching/</guid>
+      <description>This is an example of using the custom widget to create your own homepage section.
+To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>http://davidmonta%C3%B1o.com/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://davidmonta%C3%B1o.com/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
