@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on David Alberto Montaño Fetecua</title>
+    <link>http://davidmonta%C3%B1o.com/es/home/</link>
+    <description>Recent content in Homes on David Alberto Montaño Fetecua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-co</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 09 Jun 2018 10:05:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://davidmonta%C3%B1o.com/es/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://davidmonta%C3%B1o.com/es/home/about/</link>
+      <pubDate>Sat, 09 Jun 2018 10:05:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/es/home/about/</guid>
+      <description>Biography David Alberto Montaño Fetecua es un DevOps/SRE en S4N. Gracias a su experiencia como docente de Sistemas Operativos en la Universidad Nacional de Colombia, es un apasionado por GNU/Linux y la programación. Actualmente se dedica a automatizar múltiples pipelines de software en diferentes proyectos para que puedan ser desplegados de forma automatizada en diversos ambientes on premise y en la nube.
+Motivado y apasionado, David Montaño siempre intenta aprender algo nuevo cada día y comparte frecuentemente sus conocimientos y experiencias con los demás para resolver problemas en equipo.</description>
+    </item>
+    
+  </channel>
+</rss>
