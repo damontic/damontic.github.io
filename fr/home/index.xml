@@ -18,8 +18,35 @@
       <pubDate>Sat, 09 Jun 2018 10:05:00 -0500</pubDate>
       
       <guid>http://davidmonta%C3%B1o.com/fr/home/about/</guid>
-      <description>Biography David Alberto Montaño Fetecua est un DevOps/SRE à S4N. Grace a son éxperience comme professeur de Systémes d&amp;rsquo;Éxploitation à l&amp;rsquo;Université Nationale de la Colombie, il est devenu passionné par GNU/Linux et la programation. Actuellement il automatise plusieurs &amp;ldquo;software pipelines&amp;rdquo; pour faciliter le déploiement des diverses applications dans une diversité d&amp;rsquo;environments &amp;ldquo;on-premise&amp;rdquo; et &amp;ldquo;cloud&amp;rdquo;.
+      <description>À propos David Alberto Montaño Fetecua est un DevOps/SRE à S4N. Grace a son éxperience comme professeur de Systémes d&amp;rsquo;Éxploitation à l&amp;rsquo;Université Nationale de la Colombie, il est devenu passionné par GNU/Linux et la programation. Actuellement il automatise plusieurs &amp;ldquo;software pipelines&amp;rdquo; pour faciliter le déploiement des diverses applications dans une diversité d&amp;rsquo;environments &amp;ldquo;on-premise&amp;rdquo; et &amp;ldquo;cloud&amp;rdquo;.
 Toujours motivé et passionné par son travail, David Montaño à pour objectif apprendre quelque chose chaque jour et c&amp;rsquo;est naturel pour lui de partager ses experiences aver les autres pour résoudre de diverses problemes en équipe.</description>
+    </item>
+    
+    <item>
+      <title>Publications Récentes</title>
+      <link>http://davidmonta%C3%B1o.com/fr/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/fr/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Présentations Prochaines et Récentes</title>
+      <link>http://davidmonta%C3%B1o.com/fr/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/fr/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://davidmonta%C3%B1o.com/fr/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/fr/home/contact/</guid>
+      <description></description>
     </item>
     
   </channel>

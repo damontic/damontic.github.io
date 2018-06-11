@@ -10,5 +10,33 @@
     <lastBuildDate>Sat, 09 Jun 2018 10:05:00 -0500</lastBuildDate>
     <atom:link href="/es/" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>DevOps en S4N</title>
+      <link>http://davidmonta%C3%B1o.com/es/publication/s4n_devops_ganado_mascotas/</link>
+      <pubDate>Tue, 12 Dec 2017 13:58:51 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/es/publication/s4n_devops_ganado_mascotas/</guid>
+      <description>&lt;p&gt;Para mantenerse vigente y competente en un entorno tan cambiante como el actual, las empresas necesitan DevOps. La adopción de esta cultura, sus prácticas y herramientas les permitirá mejorar la calidad del producto de software, hacer despliegues de forma continua y segura, y obtener resultados más rápidamente.&lt;/p&gt;
+
+&lt;p&gt;Descargue &amp;ldquo;Cultura y procesos: un enfoque a la adopción de DevOps en &lt;a href=&#34;http://s4n.co&#34; target=&#34;_blank&#34;&gt;S4N&lt;/a&gt;&amp;rdquo; para conocer:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ganado vs mascotas: La visión de DevOps empleada por empresas del Fortune 500&lt;/li&gt;
+&lt;li&gt;Beneficios de la adopción DevOps desde la implementación hasta el despliegue.&lt;/li&gt;
+&lt;li&gt;Canal de Entrega de Software: integración continua, entrega continua, despliegue continuo, pruebas continuas,&lt;/li&gt;
+&lt;li&gt;Dos casos donde hemos aplicado DevOps tanto en el sector aeronáutico como en el sector financiero.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>jq</title>
+      <link>http://davidmonta%C3%B1o.com/es/talk/github_jq/</link>
+      <pubDate>Sat, 06 Aug 2016 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/es/talk/github_jq/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

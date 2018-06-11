@@ -7,9 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 12 Dec 2017 13:58:51 -0500</lastBuildDate>
     
 	<atom:link href="http://davidmonta%C3%B1o.com/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DevOps</title>
+      <link>http://davidmonta%C3%B1o.com/fr/tags/devops/</link>
+      <pubDate>Tue, 12 Dec 2017 13:58:51 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/fr/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GNU/Linux</title>
+      <link>http://davidmonta%C3%B1o.com/fr/tags/gnu/linux/</link>
+      <pubDate>Sat, 06 Aug 2016 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/fr/tags/gnu/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jq</title>
+      <link>http://davidmonta%C3%B1o.com/fr/tags/jq/</link>
+      <pubDate>Sat, 06 Aug 2016 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/fr/tags/jq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Json</title>
+      <link>http://davidmonta%C3%B1o.com/fr/tags/json/</link>
+      <pubDate>Sat, 06 Aug 2016 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/fr/tags/json/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sofware Pipeline</title>
+      <link>http://davidmonta%C3%B1o.com/fr/tags/sofware-pipeline/</link>
+      <pubDate>Tue, 12 Dec 2017 13:58:51 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/fr/tags/sofware-pipeline/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
