@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-co</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 12 Dec 2017 13:58:51 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 28 Nov 2016 16:00:00 -0500</lastBuildDate>
     
 	<atom:link href="http://davidmonta%C3%B1o.com/es/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Automation</title>
+      <link>http://davidmonta%C3%B1o.com/es/tags/automation/</link>
+      <pubDate>Mon, 28 Nov 2016 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/es/tags/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous Delivery</title>
+      <link>http://davidmonta%C3%B1o.com/es/tags/continuous-delivery/</link>
+      <pubDate>Mon, 28 Nov 2016 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/es/tags/continuous-delivery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous Deployment</title>
+      <link>http://davidmonta%C3%B1o.com/es/tags/continuous-deployment/</link>
+      <pubDate>Mon, 28 Nov 2016 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/es/tags/continuous-deployment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous Integration</title>
+      <link>http://davidmonta%C3%B1o.com/es/tags/continuous-integration/</link>
+      <pubDate>Mon, 28 Nov 2016 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/es/tags/continuous-integration/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DevOps</title>
@@ -45,6 +81,24 @@
       <pubDate>Sat, 06 Aug 2016 16:00:00 -0500</pubDate>
       
       <guid>http://davidmonta%C3%B1o.com/es/tags/json/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SRE</title>
+      <link>http://davidmonta%C3%B1o.com/es/tags/sre/</link>
+      <pubDate>Mon, 28 Nov 2016 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/es/tags/sre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Pipeline</title>
+      <link>http://davidmonta%C3%B1o.com/es/tags/software-pipeline/</link>
+      <pubDate>Mon, 28 Nov 2016 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/es/tags/software-pipeline/</guid>
       <description></description>
     </item>
     

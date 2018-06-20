@@ -28,8 +28,8 @@
     <url>
     
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/publication/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/publication/" hreflang="fr"/>
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/publication/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/publication/" hreflang="fr"/>
     
       <loc>http://davidmonta%C3%B1o.com/publication/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
@@ -41,11 +41,24 @@
     <url>
     
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/talk/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/talk/" hreflang="fr"/>
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/talk/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/talk/" hreflang="fr"/>
     
       <loc>http://davidmonta%C3%B1o.com/talk/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/talk/one-year-devops-talk/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/talk/one-year-devops-talk/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/talk/one-year-devops-talk/" hreflang="fr"/>
+    
+      <loc>http://davidmonta%C3%B1o.com/talk/one-year-devops-talk/</loc>
+      <lastmod>2016-11-28T16:00:00-05:00</lastmod>
     </url>
     
   
@@ -67,8 +80,8 @@
     <url>
     
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/publication_types/0/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/publication_types/0/" hreflang="fr"/>
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/publication_types/0/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/publication_types/0/" hreflang="fr"/>
     
       <loc>http://davidmonta%C3%B1o.com/publication_types/0/</loc>
       <lastmod>2017-12-12T13:58:51-05:00</lastmod>
@@ -80,9 +93,23 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/tags/automation/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/tags/automation/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/automation/" hreflang="fr"/>
+    
+      <loc>http://davidmonta%C3%B1o.com/tags/automation/</loc>
+      <lastmod>2016-11-28T16:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/categories/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/categories/" hreflang="fr"/>
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/categories/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/categories/" hreflang="fr"/>
     
       <loc>http://davidmonta%C3%B1o.com/categories/</loc>
       <priority>0</priority>
@@ -93,9 +120,51 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/tags/continuous-delivery/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/tags/continuous-delivery/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/continuous-delivery/" hreflang="fr"/>
+    
+      <loc>http://davidmonta%C3%B1o.com/tags/continuous-delivery/</loc>
+      <lastmod>2016-11-28T16:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/tags/continuous-deployment/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/tags/continuous-deployment/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/continuous-deployment/" hreflang="fr"/>
+    
+      <loc>http://davidmonta%C3%B1o.com/tags/continuous-deployment/</loc>
+      <lastmod>2016-11-28T16:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/tags/continuous-integration/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/tags/continuous-integration/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/continuous-integration/" hreflang="fr"/>
+    
+      <loc>http://davidmonta%C3%B1o.com/tags/continuous-integration/</loc>
+      <lastmod>2016-11-28T16:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/" hreflang="fr"/>
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/" hreflang="fr"/>
     
       <loc>http://davidmonta%C3%B1o.com/</loc>
       <lastmod>2018-06-09T10:05:00-05:00</lastmod>
@@ -108,8 +177,8 @@
     <url>
     
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/tags/devops/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/devops/" hreflang="fr"/>
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/tags/devops/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/devops/" hreflang="fr"/>
     
       <loc>http://davidmonta%C3%B1o.com/tags/devops/</loc>
       <lastmod>2017-12-12T13:58:51-05:00</lastmod>
@@ -122,8 +191,8 @@
     <url>
     
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/tags/gnu/linux/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/gnu/linux/" hreflang="fr"/>
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/tags/gnu/linux/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/gnu/linux/" hreflang="fr"/>
     
       <loc>http://davidmonta%C3%B1o.com/tags/gnu/linux/</loc>
       <lastmod>2016-08-06T16:00:00-05:00</lastmod>
@@ -136,8 +205,8 @@
     <url>
     
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/tags/jq/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/jq/" hreflang="fr"/>
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/tags/jq/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/jq/" hreflang="fr"/>
     
       <loc>http://davidmonta%C3%B1o.com/tags/jq/</loc>
       <lastmod>2016-08-06T16:00:00-05:00</lastmod>
@@ -150,8 +219,8 @@
     <url>
     
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/tags/json/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/json/" hreflang="fr"/>
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/tags/json/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/json/" hreflang="fr"/>
     
       <loc>http://davidmonta%C3%B1o.com/tags/json/</loc>
       <lastmod>2016-08-06T16:00:00-05:00</lastmod>
@@ -164,8 +233,8 @@
     <url>
     
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/publication_types/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/publication_types/" hreflang="fr"/>
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/publication_types/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/publication_types/" hreflang="fr"/>
     
       <loc>http://davidmonta%C3%B1o.com/publication_types/</loc>
       <lastmod>2017-12-12T13:58:51-05:00</lastmod>
@@ -177,9 +246,37 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/tags/sre/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/tags/sre/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/sre/" hreflang="fr"/>
+    
+      <loc>http://davidmonta%C3%B1o.com/tags/sre/</loc>
+      <lastmod>2016-11-28T16:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/tags/software-pipeline/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/tags/software-pipeline/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/software-pipeline/" hreflang="fr"/>
+    
+      <loc>http://davidmonta%C3%B1o.com/tags/software-pipeline/</loc>
+      <lastmod>2016-11-28T16:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/tags/sofware-pipeline/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/sofware-pipeline/" hreflang="fr"/>
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/tags/sofware-pipeline/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/sofware-pipeline/" hreflang="fr"/>
     
       <loc>http://davidmonta%C3%B1o.com/tags/sofware-pipeline/</loc>
       <lastmod>2017-12-12T13:58:51-05:00</lastmod>
@@ -192,11 +289,11 @@
     <url>
     
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/tags/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/" hreflang="fr"/>
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/tags/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/" hreflang="fr"/>
     
       <loc>http://davidmonta%C3%B1o.com/tags/</loc>
-      <lastmod>2017-12-12T13:58:51-05:00</lastmod>
+      <lastmod>2016-11-28T16:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
