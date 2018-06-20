@@ -22,6 +22,24 @@
     </item>
     
     <item>
+      <title>Ansible</title>
+      <link>http://davidmonta%C3%B1o.com/es/tags/ansible/</link>
+      <pubDate>Thu, 18 Aug 2016 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/es/tags/ansible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible Galaxy</title>
+      <link>http://davidmonta%C3%B1o.com/es/tags/ansible-galaxy/</link>
+      <pubDate>Thu, 18 Aug 2016 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/es/tags/ansible-galaxy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Application</title>
       <link>http://davidmonta%C3%B1o.com/es/tags/application/</link>
       <pubDate>Sun, 27 May 2018 08:00:00 -0500</pubDate>
@@ -121,6 +139,15 @@
     </item>
     
     <item>
+      <title>Docker</title>
+      <link>http://davidmonta%C3%B1o.com/es/tags/docker/</link>
+      <pubDate>Thu, 18 Aug 2016 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/es/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Encodings</title>
       <link>http://davidmonta%C3%B1o.com/es/tags/encodings/</link>
       <pubDate>Thu, 26 Jan 2017 16:00:00 -0500</pubDate>
@@ -211,6 +238,42 @@
     </item>
     
     <item>
+      <title>Phoenix Servers</title>
+      <link>http://davidmonta%C3%B1o.com/es/tags/phoenix-servers/</link>
+      <pubDate>Thu, 18 Aug 2016 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/es/tags/phoenix-servers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pip</title>
+      <link>http://davidmonta%C3%B1o.com/es/tags/pip/</link>
+      <pubDate>Thu, 18 Aug 2016 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/es/tags/pip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Puppet</title>
+      <link>http://davidmonta%C3%B1o.com/es/tags/puppet/</link>
+      <pubDate>Thu, 18 Aug 2016 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/es/tags/puppet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://davidmonta%C3%B1o.com/es/tags/python/</link>
+      <pubDate>Thu, 18 Aug 2016 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/es/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SRE</title>
       <link>http://davidmonta%C3%B1o.com/es/tags/sre/</link>
       <pubDate>Sun, 27 May 2018 08:00:00 -0500</pubDate>
@@ -220,11 +283,29 @@
     </item>
     
     <item>
+      <title>SSH</title>
+      <link>http://davidmonta%C3%B1o.com/es/tags/ssh/</link>
+      <pubDate>Thu, 18 Aug 2016 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/es/tags/ssh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Security</title>
       <link>http://davidmonta%C3%B1o.com/es/tags/security/</link>
       <pubDate>Sun, 27 May 2018 08:00:00 -0500</pubDate>
       
       <guid>http://davidmonta%C3%B1o.com/es/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Snowflake Servers</title>
+      <link>http://davidmonta%C3%B1o.com/es/tags/snowflake-servers/</link>
+      <pubDate>Thu, 18 Aug 2016 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/es/tags/snowflake-servers/</guid>
       <description></description>
     </item>
     
@@ -261,6 +342,15 @@
       <pubDate>Thu, 26 Jan 2017 16:00:00 -0500</pubDate>
       
       <guid>http://davidmonta%C3%B1o.com/es/tags/unicode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zookeeper</title>
+      <link>http://davidmonta%C3%B1o.com/es/tags/zookeeper/</link>
+      <pubDate>Thu, 18 Aug 2016 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/es/tags/zookeeper/</guid>
       <description></description>
     </item>
     

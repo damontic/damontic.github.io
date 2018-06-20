@@ -70,6 +70,19 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/talk/basic-ansible-talk/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/talk/basic-ansible-talk/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/talk/basic-ansible-talk/" hreflang="en"/>
+    
+      <loc>http://davidmonta%C3%B1o.com/fr/talk/basic-ansible-talk/</loc>
+      <lastmod>2016-08-18T16:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/talk/github_jq/" hreflang="fr"/>
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/talk/github_jq/" hreflang="es"/>
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/talk/github_jq/" hreflang="en"/>
@@ -103,6 +116,34 @@
     
       <loc>http://davidmonta%C3%B1o.com/fr/tags/ascii/</loc>
       <lastmod>2017-01-26T16:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/ansible/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/tags/ansible/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/tags/ansible/" hreflang="en"/>
+    
+      <loc>http://davidmonta%C3%B1o.com/fr/tags/ansible/</loc>
+      <lastmod>2016-08-18T16:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/ansible-galaxy/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/tags/ansible-galaxy/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/tags/ansible-galaxy/" hreflang="en"/>
+    
+      <loc>http://davidmonta%C3%B1o.com/fr/tags/ansible-galaxy/</loc>
+      <lastmod>2016-08-18T16:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -292,6 +333,20 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/docker/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/tags/docker/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/tags/docker/" hreflang="en"/>
+    
+      <loc>http://davidmonta%C3%B1o.com/fr/tags/docker/</loc>
+      <lastmod>2016-08-18T16:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/encodings/" hreflang="fr"/>
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/tags/encodings/" hreflang="es"/>
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/tags/encodings/" hreflang="en"/>
@@ -432,6 +487,34 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/phoenix-servers/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/tags/phoenix-servers/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/tags/phoenix-servers/" hreflang="en"/>
+    
+      <loc>http://davidmonta%C3%B1o.com/fr/tags/phoenix-servers/</loc>
+      <lastmod>2016-08-18T16:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/pip/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/tags/pip/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/tags/pip/" hreflang="en"/>
+    
+      <loc>http://davidmonta%C3%B1o.com/fr/tags/pip/</loc>
+      <lastmod>2016-08-18T16:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/publication_types/" hreflang="fr"/>
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/publication_types/" hreflang="es"/>
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/publication_types/" hreflang="en"/>
@@ -460,6 +543,34 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/puppet/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/tags/puppet/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/tags/puppet/" hreflang="en"/>
+    
+      <loc>http://davidmonta%C3%B1o.com/fr/tags/puppet/</loc>
+      <lastmod>2016-08-18T16:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/python/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/tags/python/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/tags/python/" hreflang="en"/>
+    
+      <loc>http://davidmonta%C3%B1o.com/fr/tags/python/</loc>
+      <lastmod>2016-08-18T16:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/sre/" hreflang="fr"/>
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/tags/sre/" hreflang="es"/>
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/tags/sre/" hreflang="en"/>
@@ -474,12 +585,40 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/ssh/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/tags/ssh/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/tags/ssh/" hreflang="en"/>
+    
+      <loc>http://davidmonta%C3%B1o.com/fr/tags/ssh/</loc>
+      <lastmod>2016-08-18T16:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/security/" hreflang="fr"/>
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/tags/security/" hreflang="es"/>
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/tags/security/" hreflang="en"/>
     
       <loc>http://davidmonta%C3%B1o.com/fr/tags/security/</loc>
       <lastmod>2018-05-27T08:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/snowflake-servers/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/tags/snowflake-servers/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/tags/snowflake-servers/" hreflang="en"/>
+    
+      <loc>http://davidmonta%C3%B1o.com/fr/tags/snowflake-servers/</loc>
+      <lastmod>2016-08-18T16:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -564,6 +703,20 @@
     
       <loc>http://davidmonta%C3%B1o.com/fr/tags/unicode/</loc>
       <lastmod>2017-01-26T16:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/zookeeper/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/tags/zookeeper/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/tags/zookeeper/" hreflang="en"/>
+    
+      <loc>http://davidmonta%C3%B1o.com/fr/tags/zookeeper/</loc>
+      <lastmod>2016-08-18T16:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>Ansible</title>
+      <link>http://davidmonta%C3%B1o.com/fr/talk/basic-ansible-talk/</link>
+      <pubDate>Thu, 18 Aug 2016 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/fr/talk/basic-ansible-talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>jq</title>
       <link>http://davidmonta%C3%B1o.com/fr/talk/github_jq/</link>
       <pubDate>Sat, 06 Aug 2016 16:00:00 -0500</pubDate>
