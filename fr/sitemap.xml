@@ -83,6 +83,19 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/talk/basic-git-talk/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/talk/basic-git-talk/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/talk/basic-git-talk/" hreflang="es"/>
+    
+      <loc>http://davidmonta%C3%B1o.com/fr/talk/basic-git-talk/</loc>
+      <lastmod>2016-08-16T16:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/talk/github_jq/" hreflang="fr"/>
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/talk/github_jq/" hreflang="es"/>
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/talk/github_jq/" hreflang="en"/>
@@ -375,6 +388,20 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/git/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/tags/git/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/tags/git/" hreflang="en"/>
+    
+      <loc>http://davidmonta%C3%B1o.com/fr/tags/git/</loc>
+      <lastmod>2016-08-16T16:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/iso8859/" hreflang="fr"/>
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/tags/iso8859/" hreflang="es"/>
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/tags/iso8859/" hreflang="en"/>
@@ -451,6 +478,20 @@
     
       <loc>http://davidmonta%C3%B1o.com/fr/tags/json/</loc>
       <lastmod>2016-08-06T16:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/man/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/tags/man/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/tags/man/" hreflang="en"/>
+    
+      <loc>http://davidmonta%C3%B1o.com/fr/tags/man/</loc>
+      <lastmod>2016-08-16T16:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

@@ -48,7 +48,7 @@
     </item>
     
     <item>
-      <title>Un año como DevOps</title>
+      <title>Un año como DevOps/SRE</title>
       <link>http://davidmonta%C3%B1o.com/es/talk/one-year-devops-talk/</link>
       <pubDate>Mon, 28 Nov 2016 16:00:00 -0500</pubDate>
       
@@ -71,6 +71,15 @@
       <pubDate>Thu, 18 Aug 2016 16:00:00 -0500</pubDate>
       
       <guid>http://davidmonta%C3%B1o.com/es/talk/basic-ansible-talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git Básico</title>
+      <link>http://davidmonta%C3%B1o.com/es/talk/basic-git-talk/</link>
+      <pubDate>Tue, 16 Aug 2016 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/es/talk/basic-git-talk/</guid>
       <description></description>
     </item>
     
