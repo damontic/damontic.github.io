@@ -2,13 +2,6 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>http://davidmonta%C3%B1o.com/en/sitemap.xml</loc>
-		
-	   	<lastmod>2018-06-09T10:05:00-05:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
 	   	<loc>http://davidmonta%C3%B1o.com/es/sitemap.xml</loc>
 		
 	   	<lastmod>2018-06-09T10:05:00-05:00</lastmod>
@@ -17,6 +10,13 @@
 	
 	<sitemap>
 	   	<loc>http://davidmonta%C3%B1o.com/fr/sitemap.xml</loc>
+		
+	   	<lastmod>2018-06-09T10:05:00-05:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>http://davidmonta%C3%B1o.com/en/sitemap.xml</loc>
 		
 	   	<lastmod>2018-06-09T10:05:00-05:00</lastmod>
 		
