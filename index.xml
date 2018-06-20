@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Theoretical Devops</title>
+      <link>http://davidmonta%C3%B1o.com/talk/devops-teorico-talk/</link>
+      <pubDate>Sun, 27 May 2018 08:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/talk/devops-teorico-talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DevOps at S4N</title>
       <link>http://davidmonta%C3%B1o.com/publication/s4n_devops_ganado_mascotas/</link>
       <pubDate>Tue, 12 Dec 2017 13:58:51 -0500</pubDate>
@@ -30,7 +39,7 @@
     </item>
     
     <item>
-      <title>One Year Devops Talk</title>
+      <title>One Year Devops</title>
       <link>http://davidmonta%C3%B1o.com/talk/one-year-devops-talk/</link>
       <pubDate>Mon, 28 Nov 2016 16:00:00 -0500</pubDate>
       
