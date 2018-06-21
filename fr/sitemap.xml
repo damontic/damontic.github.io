@@ -109,6 +109,32 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/talk/linux-kernel-modules/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/talk/linux-kernel-modules/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/talk/linux-kernel-modules/" hreflang="es"/>
+    
+      <loc>http://davidmonta%C3%B1o.com/fr/talk/linux-kernel-modules/</loc>
+      <lastmod>2015-06-20T16:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/talk/docker-compose/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/talk/docker-compose/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/talk/docker-compose/" hreflang="en"/>
+    
+      <loc>http://davidmonta%C3%B1o.com/fr/talk/docker-compose/</loc>
+      <lastmod>2015-04-15T16:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/publication_types/0/" hreflang="fr"/>
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/publication_types/0/" hreflang="es"/>
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/publication_types/0/" hreflang="en"/>
@@ -346,12 +372,54 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/device-drivers/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/tags/device-drivers/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/tags/device-drivers/" hreflang="en"/>
+    
+      <loc>http://davidmonta%C3%B1o.com/fr/tags/device-drivers/</loc>
+      <lastmod>2015-06-20T16:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/docker/" hreflang="fr"/>
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/tags/docker/" hreflang="es"/>
       <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/tags/docker/" hreflang="en"/>
     
       <loc>http://davidmonta%C3%B1o.com/fr/tags/docker/</loc>
       <lastmod>2016-08-18T16:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/docker-compose/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/tags/docker-compose/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/tags/docker-compose/" hreflang="en"/>
+    
+      <loc>http://davidmonta%C3%B1o.com/fr/tags/docker-compose/</loc>
+      <lastmod>2015-04-15T16:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/docker-machine/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/tags/docker-machine/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/tags/docker-machine/" hreflang="en"/>
+    
+      <loc>http://davidmonta%C3%B1o.com/fr/tags/docker-machine/</loc>
+      <lastmod>2015-04-15T16:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -478,6 +546,20 @@
     
       <loc>http://davidmonta%C3%B1o.com/fr/tags/json/</loc>
       <lastmod>2016-08-06T16:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/fr/tags/kernel-modules/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/es/tags/kernel-modules/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="http://davidmonta%C3%B1o.com/tags/kernel-modules/" hreflang="en"/>
+    
+      <loc>http://davidmonta%C3%B1o.com/fr/tags/kernel-modules/</loc>
+      <lastmod>2015-06-20T16:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

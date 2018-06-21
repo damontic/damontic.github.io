@@ -92,5 +92,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Módulos del Kernel de Linux</title>
+      <link>http://davidmonta%C3%B1o.com/es/talk/linux-kernel-modules/</link>
+      <pubDate>Sat, 20 Jun 2015 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/es/talk/linux-kernel-modules/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker Compose</title>
+      <link>http://davidmonta%C3%B1o.com/es/talk/docker-compose/</link>
+      <pubDate>Wed, 15 Apr 2015 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/es/talk/docker-compose/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

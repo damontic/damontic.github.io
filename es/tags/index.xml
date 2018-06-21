@@ -139,11 +139,38 @@
     </item>
     
     <item>
+      <title>Device Drivers</title>
+      <link>http://davidmonta%C3%B1o.com/es/tags/device-drivers/</link>
+      <pubDate>Sat, 20 Jun 2015 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/es/tags/device-drivers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Docker</title>
       <link>http://davidmonta%C3%B1o.com/es/tags/docker/</link>
       <pubDate>Thu, 18 Aug 2016 16:00:00 -0500</pubDate>
       
       <guid>http://davidmonta%C3%B1o.com/es/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker Compose</title>
+      <link>http://davidmonta%C3%B1o.com/es/tags/docker-compose/</link>
+      <pubDate>Wed, 15 Apr 2015 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/es/tags/docker-compose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker Machine</title>
+      <link>http://davidmonta%C3%B1o.com/es/tags/docker-machine/</link>
+      <pubDate>Wed, 15 Apr 2015 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/es/tags/docker-machine/</guid>
       <description></description>
     </item>
     
@@ -225,6 +252,15 @@
       <pubDate>Sat, 06 Aug 2016 16:00:00 -0500</pubDate>
       
       <guid>http://davidmonta%C3%B1o.com/es/tags/json/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernel Modules</title>
+      <link>http://davidmonta%C3%B1o.com/es/tags/kernel-modules/</link>
+      <pubDate>Sat, 20 Jun 2015 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/es/tags/kernel-modules/</guid>
       <description></description>
     </item>
     
