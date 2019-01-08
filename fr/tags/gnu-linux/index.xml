@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GNU/Linux on David Alberto Montaño Fetecua</title>
+    <link>http://davidmonta%C3%B1o.com/fr/tags/gnu-linux/</link>
+    <description>Recent content in GNU/Linux on David Alberto Montaño Fetecua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 26 Jan 2017 16:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://davidmonta%C3%B1o.com/fr/tags/gnu-linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Codage des caractères</title>
+      <link>http://davidmonta%C3%B1o.com/fr/talk/character-encoding-overview-talk/</link>
+      <pubDate>Thu, 26 Jan 2017 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/fr/talk/character-encoding-overview-talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible</title>
+      <link>http://davidmonta%C3%B1o.com/fr/talk/basic-ansible-talk/</link>
+      <pubDate>Thu, 18 Aug 2016 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/fr/talk/basic-ansible-talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro à Git</title>
+      <link>http://davidmonta%C3%B1o.com/fr/talk/basic-git-talk/</link>
+      <pubDate>Tue, 16 Aug 2016 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/fr/talk/basic-git-talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jq</title>
+      <link>http://davidmonta%C3%B1o.com/fr/talk/github_jq/</link>
+      <pubDate>Sat, 06 Aug 2016 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/fr/talk/github_jq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modules du Noyau Linux</title>
+      <link>http://davidmonta%C3%B1o.com/fr/talk/linux-kernel-modules/</link>
+      <pubDate>Sat, 20 Jun 2015 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/fr/talk/linux-kernel-modules/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

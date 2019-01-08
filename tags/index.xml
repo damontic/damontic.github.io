@@ -185,19 +185,10 @@
     
     <item>
       <title>GNU/Linux</title>
-      <link>http://davidmonta%C3%B1o.com/tags/gnu/linux/</link>
+      <link>http://davidmonta%C3%B1o.com/tags/gnu-linux/</link>
       <pubDate>Thu, 26 Jan 2017 16:00:00 -0500</pubDate>
       
-      <guid>http://davidmonta%C3%B1o.com/tags/gnu/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Git</title>
-      <link>http://davidmonta%C3%B1o.com/tags/git/</link>
-      <pubDate>Tue, 16 Aug 2016 16:00:00 -0500</pubDate>
-      
-      <guid>http://davidmonta%C3%B1o.com/tags/git/</guid>
+      <guid>http://davidmonta%C3%B1o.com/tags/gnu-linux/</guid>
       <description></description>
     </item>
     
@@ -238,38 +229,11 @@
     </item>
     
     <item>
-      <title>Jq</title>
-      <link>http://davidmonta%C3%B1o.com/tags/jq/</link>
-      <pubDate>Sat, 06 Aug 2016 16:00:00 -0500</pubDate>
-      
-      <guid>http://davidmonta%C3%B1o.com/tags/jq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Json</title>
-      <link>http://davidmonta%C3%B1o.com/tags/json/</link>
-      <pubDate>Sat, 06 Aug 2016 16:00:00 -0500</pubDate>
-      
-      <guid>http://davidmonta%C3%B1o.com/tags/json/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kernel Modules</title>
       <link>http://davidmonta%C3%B1o.com/tags/kernel-modules/</link>
       <pubDate>Sat, 20 Jun 2015 16:00:00 -0500</pubDate>
       
       <guid>http://davidmonta%C3%B1o.com/tags/kernel-modules/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Man</title>
-      <link>http://davidmonta%C3%B1o.com/tags/man/</link>
-      <pubDate>Tue, 16 Aug 2016 16:00:00 -0500</pubDate>
-      
-      <guid>http://davidmonta%C3%B1o.com/tags/man/</guid>
       <description></description>
     </item>
     
@@ -297,15 +261,6 @@
       <pubDate>Thu, 18 Aug 2016 16:00:00 -0500</pubDate>
       
       <guid>http://davidmonta%C3%B1o.com/tags/phoenix-servers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pip</title>
-      <link>http://davidmonta%C3%B1o.com/tags/pip/</link>
-      <pubDate>Thu, 18 Aug 2016 16:00:00 -0500</pubDate>
-      
-      <guid>http://davidmonta%C3%B1o.com/tags/pip/</guid>
       <description></description>
     </item>
     
@@ -405,6 +360,51 @@
       <pubDate>Thu, 18 Aug 2016 16:00:00 -0500</pubDate>
       
       <guid>http://davidmonta%C3%B1o.com/tags/zookeeper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>http://davidmonta%C3%B1o.com/tags/git/</link>
+      <pubDate>Tue, 16 Aug 2016 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jq</title>
+      <link>http://davidmonta%C3%B1o.com/tags/jq/</link>
+      <pubDate>Sat, 06 Aug 2016 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/tags/jq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>json</title>
+      <link>http://davidmonta%C3%B1o.com/tags/json/</link>
+      <pubDate>Sat, 06 Aug 2016 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/tags/json/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>man</title>
+      <link>http://davidmonta%C3%B1o.com/tags/man/</link>
+      <pubDate>Tue, 16 Aug 2016 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/tags/man/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pip</title>
+      <link>http://davidmonta%C3%B1o.com/tags/pip/</link>
+      <pubDate>Thu, 18 Aug 2016 16:00:00 -0500</pubDate>
+      
+      <guid>http://davidmonta%C3%B1o.com/tags/pip/</guid>
       <description></description>
     </item>
     
