@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/damontic
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://xn--davidmontao-beb.com
+  * I am damontic (https://keybase.io/damontic) on keybase.
+  * I have a public key with fingerprint 646F FE4E C52F 2573 7E88  05BE 288C 8433 69E3 2786
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01012e6693a40932f81789c421f53ec36542cb1ed005e75b4718c9bafdea1e2901020a",
+      "fingerprint": "646ffe4ec52f25737e8805be288c843369e32786",
+      "host": "keybase.io",
+      "key_id": "288c843369e32786",
+      "kid": "01012e6693a40932f81789c421f53ec36542cb1ed005e75b4718c9bafdea1e2901020a",
+      "uid": "ff2281d16f86fa3dd89a8091ac483d19",
+      "username": "damontic"
+    },
+    "service": {
+      "hostname": "xn--davidmontao-beb.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1576510896,
+  "expire_in": 157680000,
+  "prev": "09d9568226aa23541297d55cd9b0df7500a14c8dc69b2a439496988e33d52ea2",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUn1QFHUYPsAbDvDkQ8Y4KcZbB2gSZL9vF6zJ9DKpAAVl+DBuP34Li7B73K2E
+nEQzXBBGpHFiwGQ2I6Khk+YHldAYp8HIEBM1aGlwZYzCDBjMGEwitkv6X3/2++ed
+3zPP87zP+857wBigM/g92+DGxNvxtX4DE6xu11z7RRfEyvxeKNkF7QZLBZTwwKkU
+7BZ5KBmCERhBAUnSGIPDNIYKFGKhaA5HEYHAAIeRBI5yLAJ4GCaAhWBxC0JxNMsI
+PGAQgNKqHoUZKAESRKkQOOwOUVJUWxInBQHggCNQASUsmAVQFEywAKUojsIxjKQB
+hlooUhUWyU5NoYZjGSdYL8oqpn4KluL9B/9/zr1nyU4QUJRCeIQUKFJgMJ6naIaC
+aYThcArjEVojOoFDYkqByuaZUllSRA6qSoBUtFzkgLZYbZLHjAopMZFnykVeIzJy
+IgvY9ZxcqtrYHbIic3KJSipSFLszWTNR9to11ZuALXjsV8CKEq+uVFWUA4dTlCUo
+GVGZnCJqDRDCQhIITNFkAgQq7KIDFIjSvzAFq0/rA7hybVE0TxMkhaIkw6AYgSMo
+beEJguNpFuYFCwHDDIJzFM+RNIsyOEbjNElTFMAwnkABg0LaiGWSDCXjak6mULV0
+ioUSo+xxAKgquN4fW6bzM+ieWWVexsuLaVeTYp1vvav/5skZ6v21G9QFB4U9Qa4c
+DX2U416Z87q9PyT6xkJe+DxWmWrdJh3MLx6dG4uaXdUQCRlI8wXWs4YcNcz4tjyc
+Sw9vdHnTE987m2XIbn913B/5I06fBvUkpQx6yhexzvBm07p8U7VX8N3qMYYGxb3U
+x0bOlKxLeqVmavxyu/7cp7Y2Y8d8ZvaJCy+ehJtWTB8n2LqEH8Ki3SNXf9+Xe23W
+1Gz4dqj/XFtT5ND1+DfsN7bdrGtgN/XUD0ztbDqvNxtr/5qw9samHvzx7JXq1odv
+eyIXLq05eiSz67eme3c/u995LGfweZ21Z+TMoPfPPPOsEqXbOXPHkbn9NefpjKel
+aO9QTJn+fkBrHx0OZQRfXKzZv/xB96nqkKCRFRFyxT43M2eydR9Q0irCsouabd93
+ILHUncpob0hjS7579Kc+/+txkzOH3p+eDA3cUBbviv4864WJjqTDMfupp8IWvmi9
+fPNYVNwnh3ckfNhtc3tsVmNK8a4N3oDvajevnvJUjZyvzPZ/eTEgqQuvWRm4dXBj
+598hpmvVa60/W+YPZZs+Np8M7I/bSH9d2xgh97b/8mB4+enAEzajL7KrqzTQ1ZUB
+Xyqb3ry9pSW353htTtQO3Zlfs3wV73hijoR9mX4qQj8z4FfvS81b7a57NHx32Oxp
+a+61fzR2O2U8wtfr7t+Sq3d99cHwrdgRk9h0zzupjNUsjhY/lz69ye8f
+=jixy
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/damontic
+
+==================================================================
